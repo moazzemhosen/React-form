@@ -1,0 +1,58 @@
+{
+  "details": [
+    {
+      "name": "Moazzem",
+      "age": "24",
+      "address": "noo",
+      "department": "sales",
+      "salary": "223232",
+      "married": true,
+      "id": 1
+    },
+    {
+      "name": "name ",
+      "age": "02",
+      "address": "dcddv",
+      "department": "operations",
+      "salary": "23232",
+      "married": true,
+      "id": 2
+    },
+    {
+      "name": "ulmi ",
+      "age": "345",
+      "address": "fghnghng",
+      "department": "sales",
+      "salary": "4545",
+      "married": true,
+      "id": 3
+    },
+    {
+      "name": "toiee",
+      "age": "23",
+      "address": "3r3333ddfd",
+      "department": "sales",
+      "salary": "343434",
+      "married": false,
+      "id": 4
+    },
+    {
+      "name": "nueee ",
+      "age": "2323",
+      "address": "dcddv",
+      "department": "operations",
+      "salary": "232323",
+      "married": false,
+      "id": 5
+    },
+    {
+      "name": "2222",
+      "age": "23",
+      "address": "wefwef",
+      "department": "operations",
+      "salary": "2323",
+      "married": true,
+      "id": 6
+    }
+  ]
+}
